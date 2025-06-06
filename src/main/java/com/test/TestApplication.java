@@ -10,6 +10,9 @@ public class TestApplication {
 		SpringApplication.run(TestApplication.class, args);
           int x=20;
           int y=30;
+		      int yx=22;
+	       	int zm=33;
+
 	}
 
 }
